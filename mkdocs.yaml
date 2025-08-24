@@ -1,5 +1,5 @@
 site_name: Experiment With GitHub Pages
-site_url: https://<your-github-username>.github.io/ExperimentWithGitHubPages/
+site_url: https://tricerintops.github.io/ExperimentWithGitHubPages/
 
 theme:
   name: material
@@ -16,5 +16,5 @@ markdown_extensions:
   - pymdownx.emoji
 
 # (optional but nice)
-repo_url: https://github.com/<your-github-username>/ExperimentWithGitHubPages
+repo_url: https://github.com/tricerintops/ExperimentWithGitHubPages
 repo_name: ExperimentWithGitHubPages
