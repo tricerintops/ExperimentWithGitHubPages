@@ -6,8 +6,8 @@ on:
     # Specify paths so that docs deploy doesn’t run on app code changes, only docs changes
     paths:
       - 'docs/**'
-      - 'mkdocs.yml'
-      - '.github/workflows/deploy-mkdocs.yml'  # so edits to this file trigger too 
+      - 'mkdocs.yaml'
+      - '.github/workflows/deploy-mkdocs.yaml'  # so edits to this file trigger too 
   workflow_dispatch: # allows me to trigger a manual deploy from the Actions tab; no config needed so it looks empty
 
 permissions:
